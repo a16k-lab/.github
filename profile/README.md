@@ -1,9 +1,6 @@
 ![a16k lab banner](./assets/a16k-banner.png)
 
 <div align="center">
-  <img src="./assets/a16k-logo-256.png" width="96" alt="a16k lab logo" />
-  <h1>a16k lab</h1>
-  <p><strong>Open infrastructure and applications for Ethereum.</strong></p>
   <p>Languages, knowledge systems, developer infrastructure, verifiable archives, and market mechanisms for an open Ethereum ecosystem.</p>
   <p>
     <a href="https://a16k.com">Website</a>
