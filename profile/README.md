@@ -3,13 +3,13 @@
 <div align="center">
   <p>Languages, knowledge systems, developer infrastructure, verifiable archives, and market mechanisms for an open Ethereum ecosystem.</p>
   <p>
-    <a href="https://a16k.com">Website</a>
+    <a href="https://a16k.org">Website</a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/a16k-lab">GitHub</a>
     &nbsp;&middot;&nbsp;
     <a href="https://x.com/a16k_lab">X</a>
     &nbsp;&middot;&nbsp;
-    <a href="mailto:info@a16k.com">Contact</a>
+    <a href="mailto:info@a16k.org">Contact</a>
   </p>
 </div>
 
@@ -166,14 +166,14 @@ Project repositories are the source of truth for setup instructions, maturity, s
 
 ## Security
 
-Please do not disclose vulnerabilities in a public issue. Use the security guidance in the relevant repository when available, or contact [info@a16k.com](mailto:info@a16k.com) with a clear description and reproduction details.
+Please do not disclose vulnerabilities in a public issue. Use the security guidance in the relevant repository when available, or contact [info@a16k.org](mailto:info@a16k.org) with a clear description and reproduction details.
 
 ## Connect
 
-- Website: [a16k.com](https://a16k.com)
+- Website: [a16k.org](https://a16k.org)
 - GitHub: [github.com/a16k-lab](https://github.com/a16k-lab)
 - X: [@a16k_lab](https://x.com/a16k_lab)
-- Email: [info@a16k.com](mailto:info@a16k.com)
+- Email: [info@a16k.org](mailto:info@a16k.org)
 
 ---
 
